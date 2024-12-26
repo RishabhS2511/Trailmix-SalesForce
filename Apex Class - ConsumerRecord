@@ -1,3 +1,5 @@
+//Rishabh Sharma - rishabh.s2511@gmail.com
+
 public class ConsumerRecord {
     public static void sendEmailNotification (List<consumer__c> con){
         for(consumer__c c:con)
